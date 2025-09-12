@@ -1,5 +1,3 @@
-version: '3.9'
-
 services:
   web:
     image: "musabsyed/node-app-test-new:latest"
